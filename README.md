@@ -90,3 +90,4 @@ Este gráfico contrasta a popularidade dos filmes com suas notas médias. Embora
 
 As visualizações gráficas corroboram estas conclusões, proporcionando uma representação visual clara das tendências observadas nos dados. Este estudo fornece uma base sólida para futuras análises, como exploração de correlações entre gênero e performance financeira ou o impacto de estratégias de marketing na popularidade de filmes.
 
+## Analisado por Diego Franco.
